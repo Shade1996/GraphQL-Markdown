@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "452ddc7ecfbcfa9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d69467864949ee7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "查询和变更/查询和变更.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbf496ed5e7a8c06",
+    "type": "split",
+    "children": [
+      {
+        "id": "25f0cb3245dd9a03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac2d780ba3657f27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "900f21b81989a55d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9ee9c823209ca58",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a9211267f5c6d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c7fd5650431e701",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "查询和变更/查询和变更.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6d69467864949ee7",
+  "lastOpenFiles": [
+    "查询和变更/查询和变更.md",
+    "查询和变更/变更（Mutations）.md",
+    "GraphQL 入门.md",
+    "Schema和类型/Schema和类型.md",
+    "查询和变更/片段（Fragments）.md",
+    "查询和变更/字段(Fields).md",
+    "查询和变更/别名（Aliases）.md",
+    "查询和变更/操作名称（Operation name）.md",
+    "查询和变更/参数（Arguments）.md",
+    "未命名.md"
+  ]
+}
