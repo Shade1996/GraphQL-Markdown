@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "查询和变更/查询和变更.md",
+            "file": "Schema和类型/接口（Interfaces）.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "查询和变更/查询和变更.md",
+                "file": "Schema和类型/接口（Interfaces）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "6d69467864949ee7",
   "lastOpenFiles": [
-    "查询和变更/查询和变更.md",
-    "查询和变更/变更（Mutations）.md",
-    "GraphQL 入门.md",
+    "Schema和类型/接口（Interfaces）.md",
+    "Schema和类型/列表和非空（Lists and Non-Null）.md",
+    "Schema和类型/枚举类型（Enumeration Types）.md",
+    "Schema和类型/标量类型（Scalar Types）.md",
+    "Schema和类型/查询和变更类型（The Query and Mutation Types）.md",
+    "Schema和类型/参数（Arguments）.md",
+    "Schema和类型/对象类型和字段（Object Types and Fields）.md",
+    "Schema和类型/类型系统（Type System）.md",
     "Schema和类型/Schema和类型.md",
-    "查询和变更/片段（Fragments）.md",
-    "查询和变更/字段(Fields).md",
-    "查询和变更/别名（Aliases）.md",
-    "查询和变更/操作名称（Operation name）.md",
-    "查询和变更/参数（Arguments）.md",
-    "未命名.md"
+    "查询和变更/内联片段（Inline Fragments）.md"
   ]
 }
